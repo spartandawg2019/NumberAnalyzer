@@ -1,0 +1,15 @@
+/Users/tomk/Projects/NUMBER ANALYZER - Decision Maker/bin/Debug/net7.0/NUMBER ANALYZER - Decision Maker
+/Users/tomk/Projects/NUMBER ANALYZER - Decision Maker/bin/Debug/net7.0/NUMBER ANALYZER - Decision Maker.deps.json
+/Users/tomk/Projects/NUMBER ANALYZER - Decision Maker/bin/Debug/net7.0/NUMBER ANALYZER - Decision Maker.runtimeconfig.json
+/Users/tomk/Projects/NUMBER ANALYZER - Decision Maker/bin/Debug/net7.0/NUMBER ANALYZER - Decision Maker.dll
+/Users/tomk/Projects/NUMBER ANALYZER - Decision Maker/bin/Debug/net7.0/NUMBER ANALYZER - Decision Maker.pdb
+/Users/tomk/Projects/NUMBER ANALYZER - Decision Maker/obj/Debug/net7.0/NUMBER ANALYZER - Decision Maker.csproj.AssemblyReference.cache
+/Users/tomk/Projects/NUMBER ANALYZER - Decision Maker/obj/Debug/net7.0/NUMBER ANALYZER - Decision Maker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomk/Projects/NUMBER ANALYZER - Decision Maker/obj/Debug/net7.0/NUMBER ANALYZER - Decision Maker.AssemblyInfoInputs.cache
+/Users/tomk/Projects/NUMBER ANALYZER - Decision Maker/obj/Debug/net7.0/NUMBER ANALYZER - Decision Maker.AssemblyInfo.cs
+/Users/tomk/Projects/NUMBER ANALYZER - Decision Maker/obj/Debug/net7.0/NUMBER ANALYZER - Decision Maker.csproj.CoreCompileInputs.cache
+/Users/tomk/Projects/NUMBER ANALYZER - Decision Maker/obj/Debug/net7.0/NUMBER ANALYZER - Decision Maker.dll
+/Users/tomk/Projects/NUMBER ANALYZER - Decision Maker/obj/Debug/net7.0/refint/NUMBER ANALYZER - Decision Maker.dll
+/Users/tomk/Projects/NUMBER ANALYZER - Decision Maker/obj/Debug/net7.0/NUMBER ANALYZER - Decision Maker.pdb
+/Users/tomk/Projects/NUMBER ANALYZER - Decision Maker/obj/Debug/net7.0/NUMBER ANALYZER - Decision Maker.genruntimeconfig.cache
+/Users/tomk/Projects/NUMBER ANALYZER - Decision Maker/obj/Debug/net7.0/ref/NUMBER ANALYZER - Decision Maker.dll
